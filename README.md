@@ -32,7 +32,7 @@
   2. 핵심 도면 이미지 감지 및 유형분류 모델 개발
 
 > Language : Pyhon3  
-> Skills : DeepLearning, Linux, sklearn, wordcloud, matplotlib, pandas, numpy, seaborn  
+> Skills : DeepLearning, Opensearch, sklearn, wordcloud, matplotlib, pandas, numpy, seaborn  
 
 상세설명 : [레포지터리](https://github.com/Florenshio/lg_es_poc)
 
@@ -44,9 +44,21 @@
 핵심 역할 : 내부 문서들의 모든 텍스트를 추출해 디지털 변환하는 로직 개발
 
 > Language : Pyhon3  
-> Skills : OCR, PyMuPDF, OpenCV, HDFS, pandas, numpy
+> Skills : OCR, PyMuPDF, OpenCV, HDFS, Nexus, pandas, numpy
 
 상세설명 : [레포지터리](https://github.com/Florenshio/kepco_enc_fulltext)
+
+---
+### 3. 산림과학원 AI플랫폼 업그레이드
+AI플랫폼 지능형 서비스 성능 개선
+
+개발기간 : 2024.05 ~ 2024.10  
+핵심 역할 : 문서 요약, 핵심 키워드 추출, 의미 기반 유사 문서 김색 기능 개발 (PL)  
+
+> Language : Pyhon3  
+> Skills : LLM, OCR, Langchaing, Llama.cpp, Docker, k8s, Nexus, Opensearch, HDFS, numpy
+
+상세설명 : [레포지터리](https://github.com/Florenshio/forest_science)
 
 ---
 ### 4. Google MLB gemma sprint project - Translate and summarize international articles
