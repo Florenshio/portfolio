@@ -15,7 +15,7 @@
 
 # 📌 Contact
 - 이메일: youngrae.cho0524@gmail.com
-- 링크드인: [Linkedin](www.linkedin.com/in/youngrae-jo-86752b282)
+- 링크드인: [Linkedin](https://www.linkedin.com/in/youngrae-jo-86752b282)
 - Github: [깃허브 프로필](https://github.com/Florenshio)
 
 # 📝Projects
