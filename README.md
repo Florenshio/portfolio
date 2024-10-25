@@ -47,3 +47,15 @@
 > Skills : OCR, PyMuPDF, OpenCV, HDFS, pandas, numpy
 
 상세설명 : [레포지터리](https://github.com/Florenshio/kepco_enc_fulltext)
+
+---
+### 4. Google MLB gemma sprint project - Translate and summarize international articles
+해외 뉴스 자동 크롤링 및 번역, 요약 봇 개발
+
+개발기간 : 2024.09 ~ 2024.10  
+핵심 역할 : 크롤링 및 LLM prompt 개발
+
+> Language : Python3  
+> Skills : LLM, Runpod, Beautifulsoup, Vllm, Docker
+
+상세설명 : [레포지터리](https://github.com/google-mlb-gemma/Translate-and-summarize-international-articles)
