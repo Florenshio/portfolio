@@ -31,4 +31,6 @@
   2. 핵심 도면 이미지 감지 및 유형분류 모델 개발
 
 > Language : Pyhon3  
-> Skills : DeepLearning, sklearn, wordcloud, matplotlib, pandas, numpy, seaborn
+> Skills : DeepLearning, Linux, sklearn, wordcloud, matplotlib, pandas, numpy, seaborn  
+
+상세설명 : [레포지터리](https://github.com/Florenshio/lg_es_poc/tree/main)
