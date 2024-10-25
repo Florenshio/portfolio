@@ -10,12 +10,13 @@
 >또한 24년 7월부터 4개월간 Google Machine Learning Bootcamp에 참여했습니다.  
 
 - 공부하고 있는 내용을 Obsidian에 기록 중이며, TIL 레포지터리에 백업과 정리를 하고 있습니다.
+  - Github: [Obsidian TIL](https://github.com/Florenshio/Obsidian_TIL)
 - 저에 대해 보다 자세한 내용은 Linkedin을 통해 확인하실 수 있습니다.
 
 # 📌 Contact
 - 이메일: youngrae.cho0524@gmail.com
-- 링크드인: www.linkedin.com/in/youngrae-jo-86752b282
-- Github: https://github.com/Florenshio
+- 링크드인: [Linkedin](www.linkedin.com/in/youngrae-jo-86752b282)
+- Github: [깃허브 프로필](https://github.com/Florenshio)
 
 # 📝Projects
 그간의 개인 및 회사 프로젝트의 내용을 정리했습니다.
@@ -33,4 +34,16 @@
 > Language : Pyhon3  
 > Skills : DeepLearning, Linux, sklearn, wordcloud, matplotlib, pandas, numpy, seaborn  
 
-상세설명 : [레포지터리](https://github.com/Florenshio/lg_es_poc/tree/main)
+상세설명 : [레포지터리](https://github.com/Florenshio/lg_es_poc)
+
+---
+### 2. KEPCO E&C 융복합 데이터 AI 분석을 위한 플랫폼 구축 및 요소기술 개발 - Full Text 추출
+비정형 데이터의 디지털 변환
+
+개발기간 : 2024.01 ~ 2024.03  
+핵심 역할 : 내부 문서들의 모든 텍스트를 추출해 디지털 변환하는 로직 개발
+
+> Language : Pyhon3  
+> Skills : OCR, PyMuPDF, OpenCV, HDFS, pandas, numpy
+
+상세설명 : [레포지터리](https://github.com/Florenshio/kepco_enc_fulltext)
